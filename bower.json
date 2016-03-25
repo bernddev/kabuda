@@ -1,0 +1,22 @@
+{
+  "name": "kabuda",
+  "homepage": "https://github.com/bernddev/kabuda",
+  "authors": [
+    "bernd"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "animate.css": "^3.5.1"
+  }
+}
